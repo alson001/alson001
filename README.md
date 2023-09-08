@@ -28,4 +28,4 @@ I'm Alson, currently a student studying Computer Science at the National Univers
 
 ## Socials
 
-[![LinkedIn logo](https://img.shields.io/badge/Alson%20Ang-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alson-ang-15958b200/])
+[![LinkedIn logo](https://img.shields.io/badge/Alson%20Ang-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alson-ang-15958b200/)
