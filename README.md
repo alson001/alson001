@@ -20,7 +20,7 @@ I'm Alson, currently a student studying Computer Science at the National Univers
 
 [![Skill Icons](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,java,py,cs,nodejs,dotnet,mysql,github,postman,regex,visualstudio,vscode,&perline=9&center=true&theme=light)](https://skillicons.dev/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alson001&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alson001&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interested in Learning!
 
