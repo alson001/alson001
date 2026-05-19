@@ -7,7 +7,6 @@
 </div>
 
 - 🔭 I’m currently working on becoming a better developer
-- 🤔 I’m looking for help with modules
 
 ## About Me
 
