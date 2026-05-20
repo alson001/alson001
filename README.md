@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm Alson, currently a student studying Computer Science at the National University of Singapore.
+I'm Alson, a Computer Science graduate from NUS. I like to play TFT and trade in my free time.
 
 [![Alson's GitHub stats](https://github-readme-stats.vercel.app/api?username=alson001&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
