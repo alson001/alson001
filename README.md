@@ -6,7 +6,7 @@
     </p>
 </div>
 
-- 🔭 I’m currently working on becoming a better developer
+- 🔭 I’m currently working on improving my security and networking skills.
 
 ## About Me
 
@@ -22,7 +22,7 @@ I'm Alson, a Computer Science graduate from NUS. I like to play TFT and trade in
 
 ## Interested in Learning!
 
-[![Skill Icons](https://skillicons.dev/icons?i=cpp,react,ts,aws&perline=10&center=true&theme=light)](https://skillicons.dev/)
+[![Skill Icons](https://skillicons.dev/icons?i=kubernetes,linux,redhat&perline=10&center=true&theme=light)](https://skillicons.dev/)
 
 ## Socials
 
