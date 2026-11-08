@@ -18,8 +18,6 @@ I'm Alson, a Computer Science graduate from NUS. I like to play TFT and trade in
 
 [![Skill Icons](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,java,py,cs,nodejs,dotnet,mysql,github,postman,regex,visualstudio,vscode,&perline=9&center=true&theme=light)](https://skillicons.dev/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alson001&theme=light)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Interested in Learning!
 
 [![Skill Icons](https://skillicons.dev/icons?i=kubernetes,linux,redhat&perline=10&center=true&theme=light)](https://skillicons.dev/)
